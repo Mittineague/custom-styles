@@ -1,0 +1,11 @@
+/* restore square avatars */
+img.avatar, div.avatar-wrapper {
+  border-radius: 0px;
+}
+
+/*  bear face tan in Admin Dashboard */
+div.dashboard-stats a[href="/admin/reports/topics"]::before {
+  content: "\1F43B";
+  color: #918151;
+  margin-right: 0.2em;
+}
