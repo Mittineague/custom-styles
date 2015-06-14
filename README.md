@@ -3,7 +3,7 @@
 A simple plugin that demonstrates an alternate way of applying CSS rules other than via the Admin Customize interface.  
 As examples, restoring square Avatars and showing a bear face in the Admin Dashboard.  
 
-![](https://raw.github.com/Mittineague/custom-text/master/dashboard-bear.png)  
+![](https://raw.github.com/Mittineague/custom-styles/master/dashboard-bear.png)  
 
 ## Note  
 
